@@ -8,6 +8,7 @@ import (
 )
 
 func main() {
+	TestDisctance()
 	// Echo instance
 	e := echo.New()
 
